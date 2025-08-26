@@ -1,2 +1,0 @@
-# sample-assessment
-sample-assessment 
